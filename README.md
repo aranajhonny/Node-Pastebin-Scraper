@@ -5,7 +5,7 @@
 ## Install 
 Install dependencies
 
-```npm i```
+```npm i node-pastebin-scraper```
 
 ## Build
 

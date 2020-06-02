@@ -1,8 +1,8 @@
 {
   "name": "node-pastebin-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A rudimentary way to scrape recent pastes on pastebin without having an API key.",
-  "main": "scraper.js",
+  "main": "dist/index.js",
   "dependencies": {
     "cheerio": "^0.20.0",
     "q": "^1.5.1",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlejandroEsquivel/Node-Pastebin-Scraper.git"
+    "url": "git+https://github.com/aranajhonny/Node-Pastebin-Scraper.git"
   },
-  "author": "Alejandro Esquivel",
+  "author": "@aranajhonny",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlejandroEsquivel/Node-Pastebin-Scraper/issues"
+    "url": "https://github.com/aranajhonny/Node-Pastebin-Scraper/issues"
   },
-  "homepage": "https://github.com/AlejandroEsquivel/Node-Pastebin-Scraper#readme"
+  "homepage": "https://github.com/aranajhonny/Node-Pastebin-Scraper#readme"
 }
